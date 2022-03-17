@@ -1,2 +1,1 @@
-# My Profile
-## https://github.com/LaxmiTallur
+[My Profile] (https://github.com/LaxmiTallur)
